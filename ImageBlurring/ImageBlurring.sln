@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ImageBlurring", "ImageBlurring\ImageBlurring.vcxproj", "{FE62A1BF-0FC8-4818-A77F-63AE1C489CDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE62A1BF-0FC8-4818-A77F-63AE1C489CDA}.Debug|x64.ActiveCfg = Debug|x64
+		{FE62A1BF-0FC8-4818-A77F-63AE1C489CDA}.Debug|x64.Build.0 = Debug|x64
+		{FE62A1BF-0FC8-4818-A77F-63AE1C489CDA}.Debug|x86.ActiveCfg = Debug|Win32
+		{FE62A1BF-0FC8-4818-A77F-63AE1C489CDA}.Debug|x86.Build.0 = Debug|Win32
+		{FE62A1BF-0FC8-4818-A77F-63AE1C489CDA}.Release|x64.ActiveCfg = Release|x64
+		{FE62A1BF-0FC8-4818-A77F-63AE1C489CDA}.Release|x64.Build.0 = Release|x64
+		{FE62A1BF-0FC8-4818-A77F-63AE1C489CDA}.Release|x86.ActiveCfg = Release|Win32
+		{FE62A1BF-0FC8-4818-A77F-63AE1C489CDA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DBA021C-8FF1-4B4A-AC18-8C656EDB5675}
+	EndGlobalSection
+EndGlobal

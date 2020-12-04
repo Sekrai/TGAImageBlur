@@ -1,0 +1,1 @@
+Bluring Alghoritms: http://blog.ivank.net/fastest-gaussian-blur.html
